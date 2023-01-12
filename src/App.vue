@@ -13,6 +13,8 @@ import Demo from './components/Demo.vue';
     </a>
   </div> -->
   <!-- <HelloWorld msg="Vite + Vue" /> -->
+  <!-- <router-link to="/">Go to Home</router-link>
+  <router-view></router-view> -->
   <Demo></Demo>
 </template>
 
